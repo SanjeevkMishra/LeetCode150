@@ -22,6 +22,7 @@
 //Example 2:
 
 //Input: nums = [2, 3, 0, 1, 4]
+
 //Output: 2
 
 
